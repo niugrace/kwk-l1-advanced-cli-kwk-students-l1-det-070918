@@ -21,7 +21,7 @@ mv kwk-students-l1-det-070918/delivery/
 mv kwk-students-l1-det-070918/delivery/
 mv kwk-students-l1-det-070918/delivery/
 mv kwk-students-l1-det-070918/delivery/
-mv kwk-students-l1-det-070918/deliverys
+mv kwk-students-l1-det-070918/delivery/
 mv kwk-students-l1-det-070918/
 mv kwk-students-l1-det-070918/
 mv kwk-students-l1-det-070918/
